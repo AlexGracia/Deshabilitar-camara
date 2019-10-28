@@ -1,6 +1,5 @@
 package org.alexgracia.android.deshabilitarcamara;
 
-import android.app.Activity;
 import android.app.admin.DevicePolicyManager;
 import android.content.ComponentName;
 import android.content.Context;
