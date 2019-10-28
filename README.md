@@ -2,7 +2,7 @@
 En este repositorio se guarda una app android que limita el uso de la camara en el dispositivo.
 
 ### :copyright: Licencia
-[GNU Affero General Public License v3.0](LICENSE).
+[GNU Affero General Public License v3.0](LICENSE.md).
 <br>Información obtenida del siguiente enlace https://choosealicense.com/licenses/agpl-3.0/
 
 <br>
