@@ -8,7 +8,7 @@ En este repositorio se guarda una app android que limita el uso de la camara en 
 ### Idiomas soportados
 * :de: Alemán
 * :es: Español
-* :eo: Esperanto
+* <img alt="eo" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Nuvola_Esperantujo_flag.svg" width="17" height="17"> Esperanto
 * :fr: Francés
 * :uk: Inglés
 * :it: Italiano
