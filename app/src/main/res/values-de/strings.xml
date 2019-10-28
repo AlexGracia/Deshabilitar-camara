@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kamera deaktivieren</string>
+    <string name="btn_des">Deinstallieren</string>
+    <string name="adm_disp_hab">Der Geräteadministrator wurde aktiviert.</string>
+    <string name="adm_disp_deshab">Der Geräteadministrator wurde deaktiviert.</string>
+</resources>

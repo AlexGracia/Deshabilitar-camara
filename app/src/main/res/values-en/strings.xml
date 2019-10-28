@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Disable camera</string>
+    <string name="btn_des">Uninstall</string>
+    <string name="adm_disp_hab">Device Admin has been enabled.</string>
+    <string name="adm_disp_deshab">Device Admin has been disabled.</string>
+</resources>

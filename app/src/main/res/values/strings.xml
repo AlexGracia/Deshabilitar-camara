@@ -1,0 +1,8 @@
+<resources>
+    <!-- activity_main.xml -->
+    <string name="app_name">Deshabilitar cámara</string>
+    <string name="btn_des">Desinstalar</string>
+    <!-- DeviceAdministrator.java -->
+    <string name="adm_disp_hab">El administrador del dispositivo ha sido habilitado.</string>
+    <string name="adm_disp_deshab">El administrador del dispositivo ha sido deshabilitado.</string>
+</resources>

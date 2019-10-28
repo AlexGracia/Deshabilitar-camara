@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Disabilita fotocamera</string>
+    <string name="btn_des">Disinstallazione</string>
+    <string name="adm_disp_hab">L\'amministratore del dispositivo è stato abilitato.</string>
+    <string name="adm_disp_deshab">L\'amministratore del dispositivo è stato disabilitato.</string>
+</resources>

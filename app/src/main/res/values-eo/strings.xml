@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Malebligi fotilo</string>
+    <string name="btn_des">Malinstali</string>
+    <string name="adm_disp_hab">La aparata administranto estis enŝaltita.</string>
+    <string name="adm_disp_deshab">La aparata administranto estis malebligita.</string>
+</resources>

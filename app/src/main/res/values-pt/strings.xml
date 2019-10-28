@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desativar câmera</string>
+    <string name="btn_des">Desinstalar</string>
+    <string name="adm_disp_hab">O administrador do dispositivo foi ativado.</string>
+    <string name="adm_disp_deshab">O administrador do dispositivo foi desativado.</string>
+</resources>
