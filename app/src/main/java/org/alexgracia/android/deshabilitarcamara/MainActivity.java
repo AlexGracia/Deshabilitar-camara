@@ -6,7 +6,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Switch;
 
@@ -59,7 +58,6 @@ public class MainActivity extends AppCompatActivity {
             finish();
             startActivity(getIntent());
             overridePendingTransition(0, 0);
-            Log.i("Device Administrator", "Un error ha ocurrido al deshabilitar/habilitar la camara - " + securityException.getMessage());
         }
     }
 
