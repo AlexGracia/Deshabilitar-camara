@@ -1,6 +1,6 @@
 ## <img alt="app-icon" src=".github/img/app-icon.png" width="80" height="80"> Deshabilitar camara
 <!-- shileds -->
-<a href="LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?style=flat-square"></a>
+<a href="LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?style=flat-square"></a> <img alt="Platform" src="https://img.shields.io/badge/platform-android-inactive?style=flat-square">
 <br>En este repositorio se guarda una app android que limita el uso de la camara en el dispositivo.
 
 ### Idiomas soportados
