@@ -3,6 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?label=licencia&logo=Open-Access&style=flat-square)](LICENSE.md)
 ![Platform](https://img.shields.io/badge/platform-android-inactive?label=plataforma&logo=Android&color=%232b995c&style=flat-square)
 [![GitHub version](https://img.shields.io/github/tag/AlexGracia/Deshabilitar-camara?label=version&logo=Skyliner&logoColor=9cf&style=flat-square)](https://github.com/AlexGracia/Deshabilitar-camara/releases/latest)
+[![Descarga](https://img.shields.io/badge/descargar-Deshabilitar--camara.apk-%23cca414?logo=DocuSign&style=flat-square)](https://github.com/AlexGracia/Deshabilitar-camara/releases/download/v1.0/Deshabilitar-camara.apk)
 <br>En este repositorio se guarda una app android que limita el uso de la camara en el dispositivo.
 
 ### Idiomas soportados
