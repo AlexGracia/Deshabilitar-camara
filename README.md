@@ -1,9 +1,7 @@
-## <img alt="app-icon" src=".github/img/app-icon.png" width="20" height="20"> Deshabilitar camara
-En este repositorio se guarda una app android que limita el uso de la camara en el dispositivo.
-
-### :copyright: Licencia
-[GNU Affero General Public License v3.0](LICENSE.md)
-<br> App icon made by Freepik from www.flaticon.com, edit by [Alex Gracia](https://github.com/AlexGracia).
+## <img alt="app-icon" src=".github/img/app-icon.png" width="40" height="40"> Deshabilitar camara
+<!-- shileds -->
+<a href="LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?style=flat-square"></a>
+<br>En este repositorio se guarda una app android que limita el uso de la camara en el dispositivo.
 
 ### Idiomas soportados
 * :de: Alemán
@@ -13,3 +11,5 @@ En este repositorio se guarda una app android que limita el uso de la camara en 
 * :uk: Inglés
 * :it: Italiano
 * 🇵🇹 Portugués
+
+App icon made by Freepik from www.flaticon.com, edit by [Alex Gracia](https://github.com/AlexGracia).
