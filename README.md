@@ -1,4 +1,4 @@
-## Deshabilitar camara
+## <img alt="app-icon" src=".github/img/app-icon.png">Deshabilitar camara
 En este repositorio se guarda una app android que limita el uso de la camara en el dispositivo.
 
 ### :copyright: Licencia
