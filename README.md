@@ -7,8 +7,6 @@
 <br>En este repositorio se guarda una app android que limita el uso de la camara en el dispositivo.
 
 ## Idiomas soportados
-<span title="Alemán">:de:</span> <span title="Español">:es:</span> [<img title="Esperanto" alt="eo" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Nuvola_Esperantujo_flag.svg" width="17" height="17">](https://commons.wikimedia.org/wiki/File:Nuvola_Esperantujo_flag.svg) <span title="Francés">:fr:</span> <span title="Inglés">:uk:</span> <span title="Italiano">:it:</span> <span title="Portugués">:portugal:</span>
-
-🇵🇹
+<img title="Alemán" alt="de" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" width="20" height="20"> <img title="Español" alt="es" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png" width="20" height="20"> <a href="https://commons.wikimedia.org/wiki/File:Nuvola_Esperantujo_flag.svg"><img title="Esperanto" alt="eo" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Nuvola_Esperantujo_flag.svg" width="17" height="17"></a> <img title="Francés" alt="fr" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" width="20" height="20"> <img title="Inglés" alt="gb" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png" width="20" height="20"> <img title="Italiano" alt="it" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png" width="20" height="20"> <img title="Portugués" alt="pt" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f9.png" width="20" height="20">
 
 App icon made by Freepik from www.flaticon.com, edit by [Alex Gracia](https://github.com/AlexGracia).
