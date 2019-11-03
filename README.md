@@ -9,4 +9,6 @@
 ## Idiomas soportados
 <span title="Alemán">:de:</span> <span title="Español">:es:</span> [<img title="Esperanto" alt="eo" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Nuvola_Esperantujo_flag.svg" width="17" height="17">](https://commons.wikimedia.org/wiki/File:Nuvola_Esperantujo_flag.svg) <span title="Francés">:fr:</span> <span title="Inglés">:uk:</span> <span title="Italiano">:it:</span> <span title="Portugués">:portugal:</span>
 
+🇵🇹
+
 App icon made by Freepik from www.flaticon.com, edit by [Alex Gracia](https://github.com/AlexGracia).
