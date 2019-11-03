@@ -1,4 +1,4 @@
-# <img alt="app-icon" src=".github/img/app-icon.png" width="80" height="80"> Disable camera
+# <img alt="app-icon" src="../img/app-icon.png" width="80" height="80"> Disable camera
 <!-- Botones -->
 [![licencia](https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?label=license&logo=Open-Access&style=flat-square)](LICENSE.md)
 ![plataforma](https://img.shields.io/badge/platform-android-inactive?label=platform&logo=Android&color=%232b995c&style=flat-square)
