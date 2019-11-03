@@ -1,7 +1,7 @@
 <!-- Esperanto -->
 # <img alt="app-icon" src="../img/app-icon.png" width="80" height="80"> Malŝalti fotilon
 <!-- Botones -->
-[![licencia](https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?label=licenco&logo=Open-Access&style=flat-square)](LICENSE.md)
+[![licencia](https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?label=licenco&logo=Open-Access&style=flat-square)](../../LICENSE.md)
 ![plataforma](https://img.shields.io/badge/platform-android-inactive?label=kajo&logo=Android&color=%232b995c&style=flat-square)
 [![version](https://img.shields.io/github/tag/AlexGracia/Deshabilitar-camara?label=versio&logo=Skyliner&logoColor=9cf&style=flat-square)](https://github.com/AlexGracia/Deshabilitar-camara/releases/latest)
 [![descarga](https://img.shields.io/badge/elŝuti-Deshabilitar--camara.apk-%23cca414?logo=DocuSign&style=flat-square)](https://github.com/AlexGracia/Deshabilitar-camara/releases/latest/download/Deshabilitar-camara.apk)
