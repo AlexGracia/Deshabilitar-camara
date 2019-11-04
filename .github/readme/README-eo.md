@@ -10,7 +10,7 @@
 ## Subtenataj lingvoj
 [<img title="Germane" alt="de" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" width="20" height="20">](README-de.md) [<img title="Hispana" alt="es" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png" width="20" height="20">](../../README.md) [<img title="Esperanto" alt="eo" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Nuvola_Esperantujo_flag.svg" width="17" height="17">](README-eo.md) [<img title="Franca" alt="fr" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" width="20" height="20">](README-fr.md) [<img title="Angla" alt="gb" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png" width="20" height="20">](README-gb.md) [<img title="Itala" alt="it" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png" width="20" height="20">](README-it.md) [<img title="Portugala" alt="pt" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f9.png" width="20" height="20">](README-pt.md)
 
-## Capturas de pantalla
+## Ekrankopioj
 <img title="Aktivigi Administranton" alt="screenshot1" src="../img/Screenshot1.png" width="180" height="320"> <img title="Malŝalti fotilon" alt="screenshot2" src="../img/Screenshot2.png" width="180" height="320"> <img title="Fotilo malebligita" alt="screenshot3" src="../img/Screenshot3.png" width="180" height="320"> <img title="Malinstali app" alt="screenshot4" src="../img/Screenshot4.png" width="180" height="320">
 
 <br><sup>Ikono de la aplikaĵo kreita de Freepik de www.flaticon.com, redaktita de [Alex Gracia](https://github.com/AlexGracia).
