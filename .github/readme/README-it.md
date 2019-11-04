@@ -10,5 +10,8 @@
 ## Lingue supportate
 [<img title="Tedesco" alt="de" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" width="20" height="20">](README-de.md) [<img title="Spagnolo" alt="es" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png" width="20" height="20">](../../README.md) [<img title="Esperanto" alt="eo" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Nuvola_Esperantujo_flag.svg" width="17" height="17">](README-eo.md) [<img title="Francese" alt="fr" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" width="20" height="20">](README-fr.md) [<img title="Inglese" alt="gb" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png" width="20" height="20">](README-gb.md) [<img title="Italiano" alt="it" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png" width="20" height="20">](README-it.md) [<img title="Portoghese" alt="pt" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f9.png" width="20" height="20">](README-pt.md)
 
+## Screenshots
+<img title="Attiva amministratore" alt="screenshot1" src=".github/img/Screenshot1.png" width="180" height="320"> <img title="Disabilita la fotocamera" alt="screenshot2" src=".github/img/Screenshot2.png" width="180" height="320"> <img title="Fotocamera disabilitata" alt="screenshot3" src=".github/img/Screenshot3.png" width="180" height="320"> <img title="Disinstalla app" alt="screenshot4" src=".github/img/Screenshot4.png" width="180" height="320">
+
 <br><sup>Icona dell'applicazione creata da Freepik da www.flaticon.com, a cura di [Alex Gracia](https://github.com/AlexGracia).
 <br>Tradotto con [Google Translate](https://translate.google.com/).</sup>
