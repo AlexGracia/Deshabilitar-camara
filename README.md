@@ -1,4 +1,4 @@
-# <img alt="app-icon" src=".github/img/app-icon.png" width="80" height="80"> Deshabilitar camara
+# <img alt="app-icon" src=".github/img/app-icon.png" width="80" height="80"> Deshabilitar-camara
 <!-- Botones -->
 [![licencia](https://img.shields.io/github/license/AlexGracia/Deshabilitar-camara?label=licencia&logo=Open-Access&style=flat-square)](LICENSE.md)
 ![plataforma](https://img.shields.io/badge/plataforma-android-%232b995c?logo=Android&style=flat-square)
